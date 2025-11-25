@@ -1,16 +1,3 @@
-# pawpal_300827
+Pawpal (Pet Adoption & Donation App)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PawPal is a mobile application built with Flutter that allows users to register, log in, and manage various pet-related services through a simple and intuitive interface. It connects to a backend server powered by PHP and MySQL to handle user authentication, data processing, and data storage.
